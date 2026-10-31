@@ -9,7 +9,9 @@
     "enabled": true,
   },
   "routes": [
-    { "pattern": "kovalamhomestay.in", "custom_domain": true },
-    { "pattern": "www.kovalamhomestay.in", "custom_domain": true },
+    {
+      "pattern": "kovalamhomestay.in",
+      "custom_domain": true,
+    },
   ],
 }
