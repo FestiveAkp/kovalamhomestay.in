@@ -3,9 +3,13 @@
   "name": "kovalamhomestay-in",
   "compatibility_date": "2026-10-23",
   "assets": {
-    "directory": "./public"
+    "directory": "./public",
   },
   "observability": {
-    "enabled": true
-  }
+    "enabled": true,
+  },
+  "routes": [
+    { "pattern": "kovalamhomestay.in", "custom_domain": true },
+    { "pattern": "www.kovalamhomestay.in", "custom_domain": true },
+  ],
 }
