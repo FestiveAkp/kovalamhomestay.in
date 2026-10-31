@@ -5,6 +5,8 @@ Website for [kovalamhomestay.in](http://kovalamhomestay.in).
 A static site served by a Cloudflare Worker (`kovalamhomestay-in`). Everything in
 `public/` is published as-is; configuration lives in `wrangler.jsonc`.
 
+The site dates back to at least 2014, the date of its oldest files.
+
 ## Commands
 
 No install step is needed — `npx` fetches Wrangler on demand.
